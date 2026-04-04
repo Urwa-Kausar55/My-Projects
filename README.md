@@ -5,7 +5,7 @@ Welcome to my repository! Here, I share my journey of learning data science and 
 This project analyzes customer shopping behavior to find out what people buy the most.
 
 ### Key Skills Used:
-* **Python** (Pandas, Matplotlib, Seaborn)
+* **Python** (Pandas, Matplotlib)
 * **Data Cleaning** & Exploration
 * **Data Visualization** (Charts & Graphs)
 
