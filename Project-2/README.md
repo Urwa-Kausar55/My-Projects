@@ -11,9 +11,9 @@ Performed exploratory data analysis (EDA) to uncover significant trends and corr
 Built interactive plots using advanced Python libraries for clear data communication.
 
 ### Technologies Used
-* Languages: Python *
-* Libraries: Pandas, NumPy, Matplotlib, Seaborn *
-* Environment: Jupyter Lab *
+* Languages: Python
+* Libraries: Pandas, NumPy, Matplotlib, Seaborn
+* Environment: Jupyter Lab
 
 ## Insights
 * Detailed breakdown of data-driven patterns found during analysis.
