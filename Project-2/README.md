@@ -6,7 +6,7 @@ This repository contains a comprehensive data analysis pipeline for the Netflix 
 * **Language:** Python
 * **Data Manipulation:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / VS Code
+* **Environment:** Jupyter Notebook
 
 ## 📊 Project Workflow
 The analysis is structured into a logical data pipeline:
