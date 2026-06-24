@@ -1,20 +1,19 @@
-# Key Features
+# Exploratory Data Analysis & Statistical Modeling
+This repository encapsulates a rigorous end-to-end data science lifecycle, emphasizing algorithmic data cleaning and multi-variate statistical analysis to derive high-precision insights from complex raw data.
 
+## Methodology & Pipeline
 
-#### Data Preprocessing:
-Implemented robust cleaning pipelines for handling missing values and data normalization.
+#### Data Engineering: 
+Developed optimized, scalable Python-based pipelines for automated data cleaning, normalization, and feature engineering.
 
-#### Statistical Analysis: 
-Performed exploratory data analysis (EDA) to uncover significant trends and correlations.
+#### Exploratory Data Analysis (EDA): 
+Performed exhaustive descriptive and inferential statistical analysis to map trends, identify anomalies, and establish data correlations.
 
-#### Visualization: 
-Built interactive plots using advanced Python libraries for clear data communication.
+#### Visualization Architecture:
+Leveraged high-fidelity visualization frameworks to translate complex data structures into intuitive, actionable business insights.
 
-### Technologies Used
-* Languages: Python
-* Libraries: Pandas, NumPy, Matplotlib, Seaborn
-* Environment: Jupyter Lab
-
-## Insights
-* Detailed breakdown of data-driven patterns found during analysis.
-* Identified key performance indicators (KPIs) to drive decision-making.
+## Stack
+* Language: Python
+* Computational Engines: Pandas, NumPy
+* Visualization Frameworks: Matplotlib, Seaborn
+* Environment:  Jupyter Lab & VS Code
