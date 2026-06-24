@@ -1,16 +1,16 @@
-### Key Features
+# Key Features
 
 
-# Data Preprocessing:
+#### Data Preprocessing:
 Implemented robust cleaning pipelines for handling missing values and data normalization.
 
-# Statistical Analysis: 
+#### Statistical Analysis: 
 Performed exploratory data analysis (EDA) to uncover significant trends and correlations.
 
-# Visualization: 
+#### Visualization: 
 Built interactive plots using advanced Python libraries for clear data communication.
 
-# Technologies Used
+### Technologies Used
 * Languages: Python *
 * Libraries: Pandas, NumPy, Matplotlib, Seaborn *
 * Environment: Jupyter Lab *
