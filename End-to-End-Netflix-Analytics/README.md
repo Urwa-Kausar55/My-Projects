@@ -1,6 +1,6 @@
 # Netflix Content Intelligence Dashboard
 
-![Dashboard Preview](Netflix-Dashboard-Preview.png.png)
+![Dashboard Preview](Netflix-Dashboard-Preview.png)
 
 ## Project Overview
 This project focuses on analyzing Netflix's content library to extract key insights regarding trends and subscriber preferences.
