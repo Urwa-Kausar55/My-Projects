@@ -14,7 +14,7 @@ Raw Dataset → Python (Data Cleaning & EDA) → PostgreSQL (Business Analysis) 
 | PostgreSQL (pgAdmin 4) | Business Question Analysis via SQL |
 | Power BI Desktop | Interactive Dashboard & Visualization |
 
-## Skills Demonstrated
+## 🚀 Skills Demonstrated
 Data Wrangling, SQL Subqueries & Window Functions, EDA, Business Intelligence, Data Visualization
 
 ## 📂 Repository Structure
@@ -51,7 +51,8 @@ Solved 15+ real-world business questions using SQL, covering:
 - Average content release trends by country (using subqueries)
 - Ranking analysis using window functions
 
-📎 **File:** [Netflix-SQL-Data-Analysis.sql](./Netflix-SQL-Data-Analysis.sql)
+📎 **File:** [queries.sql](./queries.sql)
+   **File:** [schema.sql](./schema.sql)
 
 ---
 
