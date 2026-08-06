@@ -20,7 +20,7 @@ Customer churn is one of the most critical problems telecom companies face. This
 ## Workflow
 
 ### 1. Data Cleaning (Python)
-Raw customer data was cleaned and prepared using Python before being loaded into PostgreSQL, including handling inconsistent values and verifying data types.
+Raw customer data was cleaned and prepared using Python before being loaded into PostgreSQL, including handling inconsistent values and verifying data types. See [Churn-Analysis.ipynb](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/Churn-Analysis.ipynb).
 
 ### 2. SQL Analysis (PostgreSQL)
 24 SQL queries were written to explore the cleaned dataset, covering:
@@ -32,6 +32,8 @@ Raw customer data was cleaned and prepared using Python before being loaded into
 
 Key data quality note: 11 customers were identified with tenure = 0 (newly joined customers with no billing history yet). These were verified as valid records, not missing data.
 
+See [TELCO_CHURN_SQL_PROJECT.sql](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/TELCO_CHURN_SQL_PROJECT.sql) for the full query set.
+
 ### 3. Power BI Dashboard
 An interactive dashboard was built using the cleaned dataset, including:
 - 9 DAX measures (Total Customers, Churn Rate %, Revenue at Risk, Average Tenure, High-Risk Churners, and more)
@@ -39,6 +41,8 @@ An interactive dashboard was built using the cleaned dataset, including:
 - 9 visuals covering churn by contract type, internet service, payment method, tenure group, and online security
 - Interactive slicers (Gender, Internet Service, Contract Type)
 - A business insights panel summarizing key findings
+
+See [telco_churn_dashboard.pbix](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/telco_churn_dashboard.pbix) for the interactive file, or [Telco_Churn_Analysis_Preview.png](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/Telco_Churn_Analysis_Preview.png) for a quick preview.
 
 ## Key Findings
 
@@ -54,13 +58,21 @@ Retention efforts should prioritize Month-to-Month customers within their first 
 
 ## Files in This Repository
 
-- SQL_Churn_Project.sql — Full SQL analysis (data validation through business queries)
-- telco_churn_dashboard.pbix — Power BI dashboard file
-- Dashboard screenshot (see below)
+- [Churn-Analysis.ipynb](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/Churn-Analysis.ipynb) — Python data cleaning notebook
+- [Telco-Customer-Churn.csv](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/Telco-Customer-Churn.csv) — Cleaned dataset
+- [TELCO_CHURN_SQL_PROJECT.sql](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/TELCO_CHURN_SQL_PROJECT.sql) — Full SQL analysis (data validation through business queries)
+- [telco_churn_dashboard.pbix](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/telco_churn_dashboard.pbix) — Power BI dashboard file
+- [Telco_Churn_Analysis_Preview.png](https://github.com/Urwa-Kausar55/My-Projects/blob/main/End-to-End-Telco-Customer-Churn-Analysis/Telco_Churn_Analysis_Preview.png) — Dashboard preview
 
 ## Dashboard Preview
 
-(./Telco_Churn_Analysis_Preview.png)
+![Dashboard Preview](./Telco_Churn_Analysis_Preview.png)
+
+## Connect With Me
+
+GitHub: https://github.com/Urwa-Kausar55
+
+LinkedIn: https://www.linkedin.com/in/urwa-kausar-7846073a7
 
 ---
 
